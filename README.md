@@ -8,7 +8,7 @@ Tracking a bicyclist across multiple images to avoid duplicate counting
 <img src="https://github.com/Dherya27/Motion_Planing/blob/main/same_bicylist.png">
 
 ## Locations where cameras have been deployed in Tempe City
-<img src="https://github.com/Dherya27/Motion_Planing/blob/main/image.png" width=375 height=275> <img src="https://github.com/Dherya27/Motion_Planing/blob/main/images_location.png" width=475 height=275>
+<img src="https://github.com/Dherya27/Motion_Planing/blob/main/image.png" width=350 height=260> <img src="https://github.com/Dherya27/Motion_Planing/blob/main/images_location.png" width=450 height=260>
 
 ## Approach
 <img src="https://github.com/Dherya27/Motion_Planing/blob/main/approach.png" width=450 height=250> 
